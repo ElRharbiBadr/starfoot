@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/starfoot/static/css/main.48a383d4.css",
+    "main.js": "/starfoot/static/js/main.00e02bcb.js",
+    "static/js/787.f0789627.chunk.js": "/starfoot/static/js/787.f0789627.chunk.js",
+    "index.html": "/starfoot/index.html",
+    "main.48a383d4.css.map": "/starfoot/static/css/main.48a383d4.css.map",
+    "main.00e02bcb.js.map": "/starfoot/static/js/main.00e02bcb.js.map",
+    "787.f0789627.chunk.js.map": "/starfoot/static/js/787.f0789627.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48a383d4.css",
+    "static/js/main.00e02bcb.js"
+  ]
+}
